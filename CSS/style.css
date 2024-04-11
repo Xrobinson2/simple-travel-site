@@ -30,3 +30,13 @@ a:hover{
 hr {
     border-width: thick;
 }
+aside {
+    width: 30%;
+    padding-left: 12px;
+    margin-left: 12px;
+    float: right;
+    font-style:italic;
+    background-color: lightgray;
+    font-size: 30px;
+
+  }
