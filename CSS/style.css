@@ -1,0 +1,32 @@
+p {
+    font-family: tahoma, Verdana, sans-serif;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+table, th, td {
+    border: solid;
+} 
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    background-color:cornflowerblue
+}
+a {
+    color: black;
+}
+a:hover{
+    background-color: darkgoldenrod;
+    color: antiquewhite;
+
+}
+
+hr {
+    border-width: thick;
+}
