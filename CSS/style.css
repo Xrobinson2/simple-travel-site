@@ -6,10 +6,12 @@ p {
 
 table, th, td {
     border: solid;
+    background-color: rgba(255, 229, 80, 0.589);
 } 
 
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
 }
 
 a {
@@ -29,6 +31,7 @@ a:hover{
 
 hr {
     border-width: thick;
+    color: black;
 }
 aside {
     width: 30%;
